@@ -1,0 +1,6 @@
+format: jb-book
+root: project-overview
+parts:
+- caption: Visualizing Processed Data
+  chapters:
+    - glob: processed-data-viz/*
